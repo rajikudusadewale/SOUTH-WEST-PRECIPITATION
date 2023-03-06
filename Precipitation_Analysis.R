@@ -1,5 +1,5 @@
 ##########################################################################################
-## DAPO(EGBEDA)< PEACE(ADO EKITI)< TY(BENIN OWENA) < EBUN(LAGOS)                                                                     ##
+## Lagos State<>Oyo State<>OgunState<>Osun State<>Ondo State<>Ekiti State               ##
 ##########################################################################################
 library(tidyverse)
 library(readxl)
